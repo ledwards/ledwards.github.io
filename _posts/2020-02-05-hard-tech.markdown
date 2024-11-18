@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Hard tech"
+date:   2020-02-05 12:00:00 -0800
+categories: vc
+---
+
+When I left Teespring to start angel investing full-time, the first two people I talked to were former Teespring board members — [Keith Rabois](https://twitter.com/rabois) and [Sam Altman](https://twitter.com/sama). Keith’s advice, as usual, was highly tactical and proven right over time (another short blog post there.) Sam’s advice was to simply not do it, arguing that seed was too crowded to make any money — for all the reasons he laid out in a recent Tweetstorm that explained why he narrowly lost a bet to a Boston investor about venture-backed returns.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Specifically, seed-stage software seems quite overpriced, and late-stage everything seems overpriced. A low-confidence guess is that A and B rounds in 2020 will look like the best risk-adjusted return bets in hindsight. And &quot;hard tech&quot; will be good.</p>&mdash; Sam Altman (@sama) <a href="https://twitter.com/sama/status/1212911546206015490?ref_src=twsrc%5Etfw">January 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Well, I clearly agree! Our firm, [Root Ventures](https://root.vc), has always had the thesis of hard tech — and what we mean by that is technology that is difficult, where the founders include the necessary technical talent, the tech is often (but not always) unique and defensible, where we underwrite and take on technical risk, and the 12–24 month goals might be tech development.
+
+What we don’t mean is deep tech, where science risk is primary. There will be *major* successes in deep tech, but we’re engineers, not scientists, so we’ll leave that to the experts. And there will obviously be tons of successes in consumer and enterprise software. But we think hard tech has the antidote to a lot of the recent problems in venture investing. Software still has the high margins that made the previous generation of multi-billion dollar startups successful. Often it’s defensible, and it leverages the talents that Silicon Valley is uniquely positioned to utilize.
+
+So that raises the question — what’s the hard tech in software? Next blog post.
