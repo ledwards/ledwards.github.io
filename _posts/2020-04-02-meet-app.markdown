@@ -61,11 +61,11 @@ So that's great. The whole app is a handful of static files, so I can host it on
 
 Instructions for deploying on Netlify (with CI/CD hooks) are in the [README](https://github.com/rootvc/meet/blob/master/README.md).
 
-Y## our turn
+## Your turn
 Try it yourself either by forking the repo or deploying with the Deploy to Netlify button in the [README](https://github.com/rootvc/meet/blob/master/README.md). Then just follow the 5 steps in the readme to configure Netlify, Daily, and the app itself.
 
 Hopefully this shows you how easy it is to create an app that has video chat built in. Go ahead and make an account on [daily.co](https://daily.co).
 
-Code here: [https://github.com/rootvc/meet]
+Code here: [https://github.com/rootvc/meet](https://github.com/rootvc/meet)
 
 *Root Ventures is an investor in [Daily], a company that provides reliable, secure video chat and screensharing via a simple one-line API. Yes, I am totally talking my book. Sorry, not sorry.*
