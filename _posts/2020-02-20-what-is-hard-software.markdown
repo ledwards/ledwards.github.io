@@ -2,7 +2,7 @@
 layout: post
 title:  "What is hard software?"
 date:   2020-02-20 12:00:00 -0800
-categories: software, vc
+categories: vc
 ---
 
 In [Hard tech](/hard-tech), I talked about the overarching thesis at Root Ventures. But I mentioned that my specific area on the team is hard software. What do I mean by that? I'm tempted to say, "you know it when you see it," but here's a few heuristics I think about.

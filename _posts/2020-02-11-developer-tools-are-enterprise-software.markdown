@@ -2,7 +2,7 @@
 layout: post
 title:  "Developer tools are consumer software"
 date:   2020-02-11 12:00:00 -0800
-categories: software, vc
+categories: vc
 ---
 
 Last week I wrote about how [developer tools are consumer software](/developer-tools-are-consumer-software), but there are also obvious ways in which they are enterprise software. Since this is more or less the traditional way to think about (and value) developer tools companies, I won’t belabor it, but there are a few interesting points to think about.
