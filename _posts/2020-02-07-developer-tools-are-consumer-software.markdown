@@ -2,7 +2,7 @@
 layout: post
 title:  "Developer tools are consumer software"
 date:   2020-02-07 12:00:00 -0800
-categories: vc
+categories: software, vc
 ---
 
 I’m surprised how many firms put a partner from their enterprise software team on their developer tools thesis area. Don’t get me wrong, many of these investors are truly fantastic. They’ve all got better track records than me (not hard to do, so far!) Take for example, [Andrew Reed](https://twitter.com/andrew__reed) who led Sequoia’s investment in GitHub and shepherded then to a great home inside Microsoft. And in general, you can’t really correlate an investor’s background to their success (check the [Midas List](https://www.forbes.com/midas/#34c13d0e5650).) So for the avoidance of doubt, I’m not throwing shade.
