@@ -37,7 +37,7 @@ Meet is a React app built on [create-react-app](https://create-react-app.dev/). 
 
 The [daily.co Javascript API](https://docs.daily.co/reference) is dead simple:
 
-```
+{% highlight javascript %}
 window.callFrame = window.DailyIframe.createFrame(
     document.getElementById("frame"), {
     showLeaveButton: true,
@@ -48,7 +48,7 @@ window.callFrame = window.DailyIframe.createFrame(
 
 let url = `https://${config.DAILY_SUBDOMAIN}.daily.co/${roomName}`
 window.callFrame.join({ url: url });
-```
+{% endhighlight %}
 
 Styles are defined in `/src/index.css` for the generic styles and `/src/brand.css` defines the [Root Ventures](https://root.vc) specific styles. This should make it easy to brand it yourself if you fork the repo, without messing up the basic layout.
 
