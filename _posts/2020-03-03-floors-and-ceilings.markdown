@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Floors and cielings"
+title:  "Floors and ceilings"
 date:   2020-03-20 12:00:00 -0800
 categories: vc
 ---
