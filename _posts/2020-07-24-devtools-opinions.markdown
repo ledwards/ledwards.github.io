@@ -9,7 +9,7 @@ It turned out this was pretty popular among developers, but I have debated almos
 
 In the spirit of strong opinions, weakly held... 👇
 
-* You can’t “just build" a dev platform on top of your successful SaaS business. It’s a different customer and more importantly a different user.
+> You can’t “just build" a dev platform on top of your successful SaaS business. It’s a different customer and more importantly a different user.
 
 * Developer Experience (DX) and Community/Developer Advocacy on the founding team probably more important than the second/third technical cofounder. Ditto Open Source community experience, for certain products and business models.
 
