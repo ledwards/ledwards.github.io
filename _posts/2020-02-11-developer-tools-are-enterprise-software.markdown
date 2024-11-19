@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Developer tools are consumer software"
+title:  "Developer tools are enterprise software"
 date:   2020-02-11 12:00:00 -0800
 categories: vc
 ---
