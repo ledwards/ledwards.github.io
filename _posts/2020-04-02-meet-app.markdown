@@ -9,7 +9,7 @@ During lockdown, I decided to not spend all of my free time playing video games,
 
 Presenting: [Meet](https://github.com/rootvc/meet). *Note: I first wrote this post before Google merged their several video conferencing solutions into one and named it Google Meet. Oops!*
 
-*Pull requests and Issues welcome. I've abstracted away all the Root-specific code, so you can now deploy your own instance of Meet to your own Netlify account with one click from the GitHub [README](https://github.com/rootvc/meet/blob/master/README.md) and a few short configuration steps.*
+Pull requests and Issues welcome. I've abstracted away all the Root-specific code, so you can now deploy your own instance of Meet to your own Netlify account with one click from the GitHub [README](https://github.com/rootvc/meet/blob/master/README.md) and a few short configuration steps.
 
 We've now completely switched over to this side-project at Root. If you video chat with us any time in the future, you'll be using Meet.
 
